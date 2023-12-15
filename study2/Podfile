@@ -1,0 +1,6 @@
+platform :ios, '17.0'
+use_frameworks!
+target 'study2' do
+pod 'YYText'
+
+end
