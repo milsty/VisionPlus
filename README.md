@@ -1,6 +1,8 @@
 # 运行说明：
 1. 从苹果网站下载模型YOLOv3:https://developer.apple.com/machine-learning/models/
 2. 放入工程里
+# 效果展示：
+![Watch the video](https://github.com/milsty/VisionPlus/blob/main/%E9%A3%9E%E4%B9%A620231215-155016.mp4)
 # 项目简介
 VisionPlus是一款专为失明者设计的创新型应用，我们将在通过coreML框架的语音识别和图像识别技术，帮助用户更全面地感知和理解周围的世界。这款应用不仅提供实时场景的语音描述，还能通过图像识别将环境中的物体、人物和文字转化为声音或语音提示，让用户能够更自信、方便地参与社交、工作和生活活动。我们需要实现以下功能：
 1. 实时场景描述： VisionPlus利用手机摄像头捕捉环境，并通过语音实时描述用户所“看见”的物品。
